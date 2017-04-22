@@ -1,0 +1,14 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Brunch test of subprojects",
+  "main": "index.js",
+  "scripts": {
+    "start": "brunch watch --server"
+  },
+  "author": "Jacob Wright",
+  "license": "MIT",
+  "devDependencies": {
+    "brunch": "^2.10.9"
+  }
+}
